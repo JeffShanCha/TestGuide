@@ -205,6 +205,7 @@
 
 - [Appium](http://appium.io/) - 最主流的 APP UI 自动化测试框架，可支持 Android/iOS
 - [Selenium](http://www.selenium.org.cn/) - 最主流的 WEB UI 自动化测试框架
+- [agent-qa](https://vostride.com) - 面向 Web、Android 和 iOS 的自然语言自动化测试工具，具备持久记忆引擎、经验证的自我改进和 MCP 接口
 - [按键精灵](http://www.anjian.com/download.htm) - Windows 自动化工具
 - [PyAutoGUI](https://muxuezi.github.io/posts/doc-pyautogui.html) - Python库，可以模拟鼠标键盘操作
 - [uiautomator2](https://github.com/openatx/uiautomator2) - 基于 Python 的 UI 自动化测试框架，可支持 Android/iOS
